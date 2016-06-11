@@ -1,0 +1,965 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"get",
+				"getchildren"
+			],
+			[
+				"soup",
+				"soup.prettify"
+			],
+			[
+				"file",
+				"file_name"
+			],
+			[
+				"mak",
+				"market_type"
+			],
+			[
+				"mar",
+				"market_type"
+			],
+			[
+				"mark",
+				"market_type"
+			],
+			[
+				"api",
+				"api_key"
+			],
+			[
+				"index",
+				"index_t"
+			],
+			[
+				"col",
+				"columns"
+			],
+			[
+				"df",
+				"df_profiles"
+			],
+			[
+				"p_f",
+				"p_file_name"
+			],
+			[
+				"WIN",
+				"WIND_ON"
+			],
+			[
+				"gdx",
+				"gdx_file"
+			],
+			[
+				"result",
+				"result_folder	(load_shedding.py)"
+			],
+			[
+				"WIND",
+				"WIND_OFF	(reference_country_model_ccm.lst)"
+			],
+			[
+				"gen",
+				"gen_cap_inst"
+			],
+			[
+				"gd",
+				"gdx_file"
+			],
+			[
+				"res_mu",
+				"res_mu_crm"
+			],
+			[
+				"cap_l",
+				"cap_limit_res_mu_crm"
+			],
+			[
+				"res_cap",
+				"res_cap_crm"
+			],
+			[
+				"KKT_res",
+				"KKT_res_cap_crm"
+			],
+			[
+				"end",
+				"end_ts"
+			],
+			[
+				"stat",
+				"start_ts"
+			],
+			[
+				"ener",
+				"energy_ville_db"
+			],
+			[
+				"res",
+				"result	(2016_cm_generators.py)"
+			],
+			[
+				"LOAD",
+				"LOADDC"
+			],
+			[
+				"RES_CAP",
+				"RES_CAP_CREDIT"
+			],
+			[
+				"RES_ca",
+				"RES_CAP_CREDIT	(2016_cm_generators.py)"
+			],
+			[
+				"lam",
+				"lambda_res"
+			],
+			[
+				"GEN",
+				"GEN_RES_CREDITS"
+			],
+			[
+				"run",
+				"run_elastic"
+			],
+			[
+				"tot",
+				"total_served_demand"
+			],
+			[
+				"la",
+				"lambda_crm"
+			],
+			[
+				"capacit",
+				"capacity-based"
+			],
+			[
+				"re",
+				"res_gen"
+			],
+			[
+				"test",
+				"test_RES_endogenous	(2016_cm_generators.py)"
+			],
+			[
+				"obj",
+				"obj_sub"
+			],
+			[
+				"save",
+				"savefig	(2016_cm_generators.py)"
+			],
+			[
+				"rev",
+				"rev_scarcity	(origin_of_revenues.py)"
+			],
+			[
+				"add",
+				"add_subplot	(2016_cm_generators.py)"
+			],
+			[
+				"sort",
+				"sort_values"
+			],
+			[
+				"or",
+				"origin_of_revenues"
+			],
+			[
+				"lambda",
+				"lambda_em"
+			],
+			[
+				"cap",
+				"cap_inst"
+			],
+			[
+				"fix",
+				"fix_cap"
+			],
+			[
+				"to",
+				"to_csv	(operating_hours.py)"
+			],
+			[
+				"ls",
+				"ls_weighted"
+			],
+			[
+				"Wie",
+				"WEIGHT"
+			],
+			[
+				"use",
+				"usepackage"
+			],
+			[
+				"RES",
+				"RES_CAP"
+			],
+			[
+				"stora",
+				"storage_policy"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "download_from_paizo.py",
+			"settings":
+			{
+				"buffer_size": 2212,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "generate_input_main.py",
+			"settings":
+			{
+				"buffer_size": 666,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"contents": "%!TEX root = crimson_throne_book_main.tex\n\n	\\input{downloaded/2013-05-19.tex}\n\n	\\input{downloaded/2013-05-26.tex}\n\n	\\input{downloaded/2013-05-28.tex}\n \n	\\input{downloaded/2013-05-29.tex}\n\n	\\input{downloaded/2013-06-02.tex}\n\n	\\input{downloaded/2013-06-03.tex}\n\n	\\input{downloaded/2013-06-15.tex}\n\n	\\input{downloaded/2013-06-16.tex}\n\n	\\input{downloaded/2013-06-23.tex}\n\n	\\input{downloaded/2013-07-21.tex}\n\n	\\input{downloaded/2013-07-28.tex}\n\n	\\input{downloaded/2013-08-03.tex}\n\n	\\input{downloaded/2013-08-08.tex}\n\n	\\input{downloaded/2013-08-09.tex}\n\n	\\input{downloaded/2013-08-10.tex}\n\n	\\input{downloaded/2013-08-16.tex}\n\n	\\input{downloaded/2013-08-24.tex}\n\n	\\input{downloaded/2016-04-16.tex}\n\n	\\input{downloaded/2016-04-23.tex}\n\n	\\input{downloaded/2016-04-30.tex}\n\n	\\input{downloaded/2016-05-07.tex}\n\n	\\input{downloaded/2016-05-21.tex}\n\n",
+			"file": "latex/main_input_generated.tex",
+			"file_size": 881,
+			"file_write_time": 131095118120719438,
+			"settings":
+			{
+				"buffer_size": 836,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "latex/downloaded/2013-05-19.tex",
+			"settings":
+			{
+				"buffer_size": 58,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "latex/downloaded/2016-04-16.tex",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "latex/downloaded/2016-04-23.tex",
+			"settings":
+			{
+				"buffer_size": 87,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "latex/crimson_throne_book_main.tex",
+			"settings":
+			{
+				"buffer_size": 161,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "html/pages_07.html",
+			"settings":
+			{
+				"buffer_size": 200301,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "crimson_throne_book.sublime-project",
+			"settings":
+			{
+				"buffer_size": 247,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/LaTeXTools/LaTeX.sublime-build",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Anaconda Python Builder",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Julia.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/SublimeREPL/sublimerepl_build_system_hack.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Julia.sublime-build",
+					""
+				],
+				[
+					"Packages/User/LatexToPS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/LaTeXTools/LaTeX.sublime-build",
+					""
+				],
+				[
+					"Packages/User/LatexToPS.sublime-build",
+					""
+				]
+			],
+			[
+				"Packages/LaTeXTools/LaTeX.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/Python/Python.sublime-build",
+					""
+				],
+				[
+					"Packages/Python/Python.sublime-build",
+					"Syntax Check"
+				]
+			],
+			[
+				"Packages/Python/Python.sublime-build",
+				""
+			]
+		],
+		[
+			[
+				[
+					"Packages/User/Gams.sublime-build",
+					""
+				],
+				[
+					"Packages/User/Gams.sublime-build",
+					"GAMS 24.5 - KUL"
+				],
+				[
+					"Packages/User/Gams.sublime-build",
+					"GAMS 24.5 - Infratrain"
+				]
+			],
+			[
+				"Packages/User/Gams.sublime-build",
+				""
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "in",
+		"selected_items":
+		[
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"git s",
+				"Git: Status"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"git",
+				"Git: Status"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"lint v",
+				"SublimeLinter: Lint This View"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 528.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/privat/rpg/crimson_throne_book",
+		"/C/privat/rpg/crimson_throne_book/html",
+		"/C/privat/rpg/crimson_throne_book/latex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded"
+	],
+	"file_history":
+	[
+		"/C/privat/rpg/crimson_throne_book/latex/crimson_throne_book_main.toc",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-04-23.tex",
+		"/C/PhD/journals/2016_cm_generators/evaluation/system_cost.py",
+		"/C/PhD/journals/2016_cm_generators/evaluation/installed_capacity.py",
+		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/ccm/reference_country_model_ccm.gms",
+		"/C/PhD/journals/2016_cm_generators/evaluation/load_shedding.py",
+		"/C/PhD/journals/2016_cm_generators/evaluation/operating_hours.py",
+		"/C/PhD/journals/2016_cm_generators/model/data/input_data_technologies.xlsx",
+		"/C/PhD/journals/2016_cm_generators/evaluation/origin_of_revenues.py",
+		"/C/PhD/journals/2016_cm_generators/evaluation/plotting/origin_of_revenues.py",
+		"/C/PhD/journals/2016_cm_generators/evaluation/plotting/origin_of_revenues.png",
+		"/C/PhD/journals/2016_cm_generators/model/data/extract_profiles_from_p_file.py",
+		"/C/PhD/journals/2016_cm_generators/model/results/endogenous_60_2015/sr/sr_reference_country_model.gdx",
+		"/C/Users/hhoschle/Desktop/BelgianTrafficDistance/BelgianTrafficDistancePoints.csv",
+		"/C/Users/hhoschle/Desktop/belgianTrafficDistance.py",
+		"/C/Users/hhoschle/Desktop/GoogleApiKey",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/Themr/ThemrFavorites.sublime-settings",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/ThemrFavorites.sublime-settings",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/GitGutter.sublime-settings",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/GitGutter/GitGutter.sublime-settings",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/GitGutter/Default (Windows).sublime-keymap",
+		"/C/PhD/journals/2016_cm_generators/model/data/create_index.py",
+		"/C/PhD/conferences/2016_PSCC_Genoa/others/student_card.tex",
+		"/C/PhD/journals/2016_cm_generators/test.gms",
+		"/C/PhD/journals/2016_cm_generators/model/data/RES_during_peak_demand.pdf",
+		"/C/PhD/presentations/2016_03_08_Elia_Capacity_Mechanisms/sections/model_results.tex",
+		"/C/PhD/journals/2016_cm_generators/model/data/prepare_input_profiles.py",
+		"/C/PhD/tools/qtikz_templates/PlainA4.pgs",
+		"/C/PhD/teaching/master_thesis/2014_2015/komnas/ICH-Sublime.03.04.2016.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/ccm/reference_country_model_ccm.lst",
+		"/C/PhD/journals/2016_cm_generators/evaluation/origin_of_revenues_2.xlsx",
+		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/eom/reference_country_model_eom.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/sr/reference_country_model_sr.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/eom/reference_country_model_eom.lst",
+		"/C/Users/hhoschle/Desktop/export_ics.py",
+		"/C/Users/hhoschle/AppData/Local/Temp/marginal_ticks.py",
+		"/C/PhD/journals/2016_cm_generators/model/data/config.yaml",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/ccm/reference_country_model_ccm.gms",
+		"/C/PhD/journals/2016_cm_generators/model/results/test_RES_endogenous/ccm/ccm_reference_country_model.lst",
+		"/C/PhD/journals/2016_cm_generators/model/results/test_RES_endogenous/ccm/ccm_reference_country_model.gdx",
+		"/C/PhD/presentations/2016_03_08_Elia_Capacity_Mechanisms/figures/installed_capacities_journal.tex",
+		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/ccm/generic_country_model_ccm.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/eom/generic_country_model_eom.gms",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/U/MyOwn/tools/db_test/test_installation.py",
+		"/C/PhD/journals/2016_cm_generators/test.lst",
+		"/C/PhD/journals/2016_cm_generators/evaluation/lambda_dcm.csv",
+		"/C/PhD/journals/2016_cm_generators/evaluation/lambda_ccm.csv",
+		"/C/PhD/journals/2016_cm_generators/evaluation/origin_of_revenues.csv",
+		"/C/PhD/journals/2016_cm_generators/model/evdbtest.py",
+		"/U/MyOwn/tools/db_test/sandbox_config.yaml",
+		"/C/home/hhoschle/Dropbox/2015_crm_storage/presentation/equations/eom_producers.tex",
+		"/C/PhD/teaching/master_thesis/2015_2016/yannick/LSTM_keras_v3.py",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
+		"/C/PhD/tools/gams_python/pres_gams_python_interface.tex",
+		"/C/PhD/tools/gams_python/pres_gams_python_interface.vrb",
+		"/C/PhD/tools/gams_python/pres_gams_python_interface.out",
+		"/U/MyOwn/tools/gams_python/pres_gams_python_interface.tex",
+		"/C/PhD/journals/2016_cm_generators/evaluation/test.csv",
+		"/C/PhD/journals/2016_cm_generators/evaluation/origin_of_revenues_2.csv",
+		"/C/Users/hhoschle/Dropbox/days_finder_opt/latex/IEEE/First_review/sections_reviewer_1.tex",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
+		"/C/PhD/journals/2016_cm_generators/doc/results.xlsx",
+		"/C/PhD/journals/2016_cm_generators/model/results/testRES/sr/sr_generic_country_model_e-5.000.gdx",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/sr/generic_country_model_sr.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/generic_country_model_dcm.lst",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/ccm/generic_country_model_ccm.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/reference_country_model_dcm.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/generic_country_model_dcm.gms",
+		"/C/privat/Guild Ball/PlayerCards/Cards4PDF.tex",
+		"/C/PhD/journals/2016_cm_generators/model/results/testRES/ccm/ccm_reference_country_model.gdx",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/sr/reference_country_model_sr.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/reference_country_model_dcm.lst",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/generic_country_model_eom.gms",
+		"/C/PhD/journals/2016_cm_generators/paper/2016_cm_generators.tex",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/generic_country_model_eom.lst",
+		"/C/PhD/journals/2016_cm_generators/model/model_string.py",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/reference_country_model_eom.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/execution.py",
+		"/C/Users/hhoschle/Dropbox/2015_crm_storage/model/model/2015_storage_crm.py",
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
+		"/C/PhD/journals/2016_cm_generators/model/gams/eom/generic_country_model_eom.gms",
+		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/reference_country_model_eom.lst",
+		"/C/PhD/journals/2016_cm_generators/model/results/test/eom/eom_reference_country_model.lst",
+		"/C/PhD/journals/2016_cm_generators/model/gams/eom/reference_country_model_eom.lst",
+		"/C/PhD/journals/2016_cm_generators/model/gams/reference_country_model_eom.gms",
+		"/C/PhD/teaching/master_thesis/2014_2015/komnas/Demand.inc",
+		"/C/PhD/teaching/master_thesis/2014_2015/komnas/Untitled_1.lst",
+		"/C/PhD/teaching/master_thesis/2014_2015/komnas/Untitled_1.gms",
+		"/C/PhD/teaching/master_thesis/2014_2015/komnas/elprice.inc"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"ramp",
+			"eom_450",
+			",",
+			"Cards-Fishermen-Feb2016.pdf",
+			"res_cap",
+			"^\\*",
+			"*",
+			"^\\*"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			".",
+			"\\file",
+			"#",
+			"^#"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "download_from_paizo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2212,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								898,
+								898
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 427.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "generate_input_main.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 666,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								198,
+								198
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "latex/main_input_generated.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 836,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								151,
+								151
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "latex/downloaded/2013-05-19.tex",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 58,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "latex/downloaded/2016-04-16.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								87,
+								87
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "latex/downloaded/2016-04-23.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 87,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 6,
+					"file": "latex/crimson_throne_book_main.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 161,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								47,
+								47
+							]
+						],
+						"settings":
+						{
+							"open_with_edit": true,
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 6,
+					"type": "text"
+				},
+				{
+					"buffer": 7,
+					"file": "html/pages_07.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 200301,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								63094,
+								63099
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 30165.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 7,
+					"type": "text"
+				},
+				{
+					"buffer": 8,
+					"file": "crimson_throne_book.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 247,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 8,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 25.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 254.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "crimson_throne_book.sublime-project",
+	"replace":
+	{
+		"height": 46.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\PhD\\journals\\2016_cvar_cm\\2016_cvar_cm.sublime-project"
+			],
+			[
+				"kom",
+				"C:\\PhD\\teaching\\master_thesis\\2014_2015\\komnas\\komnas.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 345.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
