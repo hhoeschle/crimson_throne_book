@@ -1,0 +1,113 @@
+%!TEX root = ../crimson_throne_book_main.tex
+
+\tikzset{
+mynode/.style={
+  rounded corners=15pt,
+  shape=rectangle,
+  }
+}
+
+\titleformat{\chapter}[display]
+  {\normalfont\huge\sffamily}
+  {}
+  {20pt}
+  {%
+  \begin{tikzpicture}[remember picture,overlay]
+%
+  \node[
+    anchor=west,
+    rectangle,
+    minimum height=2.5cm,
+    text width=\paperwidth,
+    xshift=-\the\dimexpr\oddsidemargin+1in\relax,
+    outer sep=0pt,
+    fill=white] (titlerect) {};
+%
+  \node[
+    mynode=nw,
+    anchor=south east,
+    fill=orange!30,
+    inner xsep=1.5cm,
+    outer sep=0pt,
+    font=\color{white}\setmainfont{Immortal},
+	rounded corners=0pt,
+	yshift=-15pt,
+    minimum height=30pt] 
+    at (current page.east|-titlerect.north)
+     {\bfseries\MakeUppercase{\chaptertitlename}\ \thechapter};
+%
+  \node[
+    mynode=nw,
+    anchor=south east,
+    fill=orange!30,
+    inner xsep=1.5cm,
+    outer sep=0pt,
+    font=\color{white}\setmainfont{Immortal},
+    minimum height=30pt] 
+    at (current page.east|-titlerect.north)
+     {\bfseries\MakeUppercase{\chaptertitlename}\ \thechapter};
+%
+  \node[
+    anchor=west,
+    rectangle,
+    minimum height=2.5cm,
+    text width=\paperwidth,
+    xshift=-\the\dimexpr\oddsidemargin+1in\relax,
+    outer sep=0pt,
+    fill=orange!60] (titlerect) {};
+%
+  \node[
+    anchor=south west,
+    xshift=1cm,
+    text width=\textwidth,
+	font=\color{white}\setmainfont{Immortal}\fontsize{26}{32}\selectfont] 
+    at ([yshift=5pt]titlerect.south west) {#1};
+  \end{tikzpicture}%
+  }
+\titleformat{name=\chapter,numberless}[display]
+  {\normalfont\huge\sffamily}
+  {}
+  {20pt}
+  {%
+  \begin{tikzpicture}[remember picture,overlay]
+  \node[
+    anchor=west,
+    rectangle,
+    minimum height=2.5cm,
+    text width=\paperwidth,
+    xshift=-\the\dimexpr\oddsidemargin+1in\relax,
+    outer sep=0pt,
+    fill=orange!60] (titlerect) {};
+  \node[
+    anchor=south west,
+    xshift=1cm,
+    text width=\textwidth, font=\color{white}\setmainfont{Immortal}\fontsize{26}{32}\selectfont] 
+    at (titlerect.south west) {#1};
+  \end{tikzpicture}%
+  }
+\titlespacing*{\chapter}
+  {0pt}{-20pt}{60pt}
+
+
+\titleformat{\section}[display]
+{\normalfont\huge\sffamily}
+  {}
+  {-0pt}
+  {%
+	{\setmainfont{Immortal}\fontsize{20}{24}\selectfont #1}
+}
+\titlespacing*{\section}
+  {0pt}{-15pt}{10pt}
+
+
+
+% \chapter*{Prelude}
+% % 
+
+
+% \chapter{Prelude}
+% \kant[1]
+% 
+% \section{The first Section}
+% 
+% \kant[1]

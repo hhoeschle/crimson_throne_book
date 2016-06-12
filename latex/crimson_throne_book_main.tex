@@ -1,7 +1,11 @@
-\documentclass[]{book}
+%!TEX program = lualatex
+% \documentclass[a5paper, draft]{book}
+\documentclass[a5paper]{book}
 
 \usepackage{geometry}
-\geometry{margin=2cm}
+\geometry{left=1cm, right=1cm, top=2cm, bottom=2cm}
+
+\usepackage[explicit]{titlesec}
 
 \usepackage[colorlinks]{hyperref}
 
@@ -9,19 +13,69 @@
 
 \usepackage{wrapfig}
 
-\title{Curse of the Crimson Throne}
-\author{Mr Vergee}
+\usepackage{tikz}
+\usetikzlibrary{calc}
+\usetikzlibrary{positioning}
+
+\usepackage{fontspec}
+
+\include{sections/section_styles}
+
+\usepackage{fancyhdr}
+\fancypagestyle{mainmatter}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0.0pt}
+    \renewcommand{\footrulewidth}{0.0pt}
+    \fancyhf[HLE,HRO]{\nouppercase{\rightmark}}
+    \fancyhf[HRE,HLO]{\nouppercase{\leftmark}}
+    \fancyhf[FLE,FRO]{\thepage}
+}
+
+\fancypagestyle{frontmatter}{%
+    \fancyhf{}
+    \renewcommand{\headrulewidth}{0.0pt}
+    \renewcommand{\footrulewidth}{0.0pt}
+    \fancyhf[HLE,HRO]{\nouppercase{\rightmark}}
+    \fancyhf[HRE,HLO]{\nouppercase{\leftmark}}
+    \fancyhf[HRE,HLO]{}
+    \fancyhf[FLE,FRO]{\thepage}
+}
+
+\usepackage{caption}
+\DeclareCaptionFont{im}{\setmainfont{Immortal}}
+\captionsetup{
+    font={im},
+    labelformat=empty,
+    labelsep=none
+}
 
 \begin{document}
 
-    \maketitle
+    \pagestyle{empty}
+    \include{sections/titlepage}
 
+    \include{sections/preface}
+
+    \frontmatter
+    \pagestyle{frontmatter}
+
+    \renewcommand{\contentsname}{Curse of the Crimson Throne}
     \tableofcontents
-    \newpage
+    \cleardoublepage
 
+    \renewcommand*\listfigurename{Settings and Miniatures}
     \listoffigures
-    \newpage
+    \cleardoublepage
+
+    \mainmatter
+
+    \pagestyle{mainmatter}
+    \renewcommand{\thesection}{}
+    \renewcommand{\sectionmark}[1]{\markright{#1}}
+    \renewcommand{\chaptermark}[1]{\markboth{#1}{}}
 
     \input{main_input_generated}
+
+
 
 \end{document}

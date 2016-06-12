@@ -20,8 +20,8 @@ def clean_text(text):
 
 
 def get_image(url):
-    name = url.split('/')[-1].split('?')[0]
-    img_name = os.path.join('images',  name + '.jpg').replace('\\', '/')
+    name = url.split('/')[-1].split('?')[0].strip()
+    img_name = os.path.join('images',  name + '.jpg').replace('\\', '/').strip()
     img_path = os.path.join(os.getcwd(), 'latex', 'images',  name + '.jpg')
     if os.path.isfile(img_path):
         print 'Image already downloaded'
@@ -78,7 +78,7 @@ def transform(p):
                 print name, caption
                 figures += '\\begin{figure}[h]\n'
                 figures += '\t\\centering\n'
-                figures += '\t\\includegraphics[width=0.39\\textwidth]{{{0}}}\n'.format(name)
+                figures += '\t\\includegraphics[width=0.4\\textwidth]{{{0}}}\n'.format(name[:-4] + '_mod.jpg')
                 figures += '\t\\caption{{{0}}}\n'.format(caption)
                 figures += '\t\\label{{fig:{0}}}\n'.format(name.split('/')[-1].split('.')[0])
                 figures += '\\end{figure}\n\n'
