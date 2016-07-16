@@ -78,7 +78,8 @@ def transform(p):
                 print name, caption
                 figures += '\\begin{figure}[h]\n'
                 figures += '\t\\centering\n'
-                figures += '\t\\includegraphics[width=0.4\\textwidth]{{{0}}}\n'.format(name[:-4] + '_mod.jpg')
+                figures += '\t\\includegraphics[width=0.4\\textwidth]{{{0}}}\n'.format(name[
+                                                                                       :-4] + '_mod.jpg')
                 figures += '\t\\caption{{{0}}}\n'.format(caption)
                 figures += '\t\\label{{fig:{0}}}\n'.format(name.split('/')[-1].split('.')[0])
                 figures += '\\end{figure}\n\n'
@@ -97,6 +98,7 @@ def transform(p):
 
 
 for page in range(1, 8):
+    print "=" * 80
     file_name = 'html/pages_%02d.html' % page
     if os.path.isfile(file_name):
         html = open(file_name, "r").read()

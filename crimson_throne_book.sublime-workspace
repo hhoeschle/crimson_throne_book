@@ -4,8 +4,28 @@
 		"selected_items":
 		[
 			[
+				"inclu",
+				"include	(pages_06.html)"
+			],
+			[
+				"main",
+				"mainmatter"
+			],
+			[
+				"cle",
+				"clean_text"
+			],
+			[
+				"Ver",
+				"Vergee's	(pages_07.html)"
+			],
+			[
+				"img",
+				"img_path"
+			],
+			[
 				"get",
-				"getchildren"
+				"getcwd	(generate_input_main.py)"
 			],
 			[
 				"soup",
@@ -212,61 +232,26 @@
 	"buffers":
 	[
 		{
-			"file": "download_from_paizo.py",
-			"settings":
-			{
-				"buffer_size": 2212,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "generate_input_main.py",
-			"settings":
-			{
-				"buffer_size": 666,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"contents": "%!TEX root = crimson_throne_book_main.tex\n\n	\\input{downloaded/2013-05-19.tex}\n\n	\\input{downloaded/2013-05-26.tex}\n\n	\\input{downloaded/2013-05-28.tex}\n \n	\\input{downloaded/2013-05-29.tex}\n\n	\\input{downloaded/2013-06-02.tex}\n\n	\\input{downloaded/2013-06-03.tex}\n\n	\\input{downloaded/2013-06-15.tex}\n\n	\\input{downloaded/2013-06-16.tex}\n\n	\\input{downloaded/2013-06-23.tex}\n\n	\\input{downloaded/2013-07-21.tex}\n\n	\\input{downloaded/2013-07-28.tex}\n\n	\\input{downloaded/2013-08-03.tex}\n\n	\\input{downloaded/2013-08-08.tex}\n\n	\\input{downloaded/2013-08-09.tex}\n\n	\\input{downloaded/2013-08-10.tex}\n\n	\\input{downloaded/2013-08-16.tex}\n\n	\\input{downloaded/2013-08-24.tex}\n\n	\\input{downloaded/2016-04-16.tex}\n\n	\\input{downloaded/2016-04-23.tex}\n\n	\\input{downloaded/2016-04-30.tex}\n\n	\\input{downloaded/2016-05-07.tex}\n\n	\\input{downloaded/2016-05-21.tex}\n\n",
-			"file": "latex/main_input_generated.tex",
-			"file_size": 881,
-			"file_write_time": 131095118120719438,
-			"settings":
-			{
-				"buffer_size": 836,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "latex/downloaded/2013-05-19.tex",
-			"settings":
-			{
-				"buffer_size": 58,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "latex/downloaded/2016-04-16.tex",
-			"settings":
-			{
-				"buffer_size": 87,
-				"line_ending": "Windows"
-			}
-		},
-		{
-			"file": "latex/downloaded/2016-04-23.tex",
-			"settings":
-			{
-				"buffer_size": 87,
-				"line_ending": "Windows"
-			}
-		},
-		{
 			"file": "latex/crimson_throne_book_main.tex",
 			"settings":
 			{
-				"buffer_size": 161,
+				"buffer_size": 1703,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "latex/main_input_generated.tex",
+			"settings":
+			{
+				"buffer_size": 12361,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "download_from_paizo.py",
+			"settings":
+			{
+				"buffer_size": 5450,
 				"line_ending": "Windows"
 			}
 		},
@@ -274,16 +259,16 @@
 			"file": "html/pages_07.html",
 			"settings":
 			{
-				"buffer_size": 200301,
+				"buffer_size": 299984,
 				"line_ending": "Windows"
 			}
 		},
 		{
-			"file": "crimson_throne_book.sublime-project",
+			"file": "generate_input_main.py",
 			"settings":
 			{
-				"buffer_size": 247,
-				"line_ending": "Unix"
+				"buffer_size": 826,
+				"line_ending": "Windows"
 			}
 		}
 	],
@@ -463,8 +448,90 @@
 	],
 	"file_history":
 	[
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-11-24_035.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-12-30_046.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2014-02-22_026.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2015-09-13_022.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-05-21_006.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-06-18_010.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-07-02_011.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/images/Ambush-in-the-training-room-550436061.caption",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-11-24_035.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2015-12-19_035.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2015-12-19_036.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-12-08_042.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-12-08_042.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-12-07_041.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/sections/charsheet_lvl1.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-08-09_039.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-08-09_039.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-08-08_038.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-08-08_038.tex",
+		"/C/privat/rpg/crimson_throne_book/test.html",
+		"/C/privat/rpg/crimson_throne_book/html/pages_03.html",
+		"/C/privat/rpg/crimson_throne_book/html/pages_06.html",
+		"/C/privat/rpg/crimson_throne_book/html/pages_05.html",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-16_022.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-06-15_016.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-06-03_015.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-06-03_014.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-06-16_023.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-06-16_022.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-06-23_024.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-05-19_004.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-19_004.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/sections/charsheet_lvl0.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-02_012.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-15_017.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-02_013.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-03_014.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-03_015.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-15_016.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-06-02_013.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-19_003.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-05-19_003.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-19_002.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-05-19_002.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/sections/section_styles.tex",
+		"/C/privat/rpg/crimson_throne_book/.gitignore",
+		"/C/privat/rpg/crimson_throne_book/latex/sections/preface.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/sections/template_charsheet.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-19_001.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2015-07-25_015.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/main_input_generated.tex",
 		"/C/privat/rpg/crimson_throne_book/latex/crimson_throne_book_main.toc",
+		"/C/privat/rpg/crimson_throne_book/latex/sections/titlepage.tex",
+		"/C/PhD/tools/qtikz_templates/crimson_thrones.pgs",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-08-03_032.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-08-03_032.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-07-28_031.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-07-28_031.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/images/bordereffects",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-05-19_001.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-08-03_033.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-08-03_033.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2014-08-02_042.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-04-23_002.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2014-08-02_042.tex",
+		"/C/privat/rpg/crimson_throne_book/html/pages_01.html",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-26_006.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-28_007.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-29_008.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/manual/2013-05-19_005.tex",
+		"/C/privat/rpg/crimson_throne_book/html/pages_07.html",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-06-15.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-04-16.tex",
+		"/C/privat/rpg/crimson_throne_book/html/pages_02.html",
+		"/C/privat/rpg/crimson_throne_book/latex/crimson_throne_book_main.lof",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-05-21.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-05-07.tex",
 		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2016-04-23.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/images/Red-Mantis-assault-on-Shoanti-603326119.caption",
+		"/C/privat/rpg/crimson_throne_book/latex/images/Busted-in-House-Leroung-607546219.caption",
+		"/C/privat/rpg/crimson_throne_book/latex/images/Death-of-the-Cinderlander-603327730.caption",
+		"/C/privat/rpg/crimson_throne_book/crimson_throne_book.sublime-project",
+		"/C/privat/rpg/crimson_throne_book/latex/crimson_throne_book_main.tex",
+		"/C/privat/rpg/crimson_throne_book/latex/downloaded/2013-05-19.tex",
 		"/C/PhD/journals/2016_cm_generators/evaluation/system_cost.py",
 		"/C/PhD/journals/2016_cm_generators/evaluation/installed_capacity.py",
 		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/ccm/reference_country_model_ccm.gms",
@@ -508,56 +575,7 @@
 		"/C/PhD/journals/2016_cm_generators/model/gams/endogenous/eom/generic_country_model_eom.gms",
 		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/Preferences.sublime-settings",
 		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/Default.sublime-theme",
-		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
-		"/U/MyOwn/tools/db_test/test_installation.py",
-		"/C/PhD/journals/2016_cm_generators/test.lst",
-		"/C/PhD/journals/2016_cm_generators/evaluation/lambda_dcm.csv",
-		"/C/PhD/journals/2016_cm_generators/evaluation/lambda_ccm.csv",
-		"/C/PhD/journals/2016_cm_generators/evaluation/origin_of_revenues.csv",
-		"/C/PhD/journals/2016_cm_generators/model/evdbtest.py",
-		"/U/MyOwn/tools/db_test/sandbox_config.yaml",
-		"/C/home/hhoschle/Dropbox/2015_crm_storage/presentation/equations/eom_producers.tex",
-		"/C/PhD/teaching/master_thesis/2015_2016/yannick/LSTM_keras_v3.py",
-		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/LaTeXTools.sublime-settings",
-		"/C/PhD/tools/gams_python/pres_gams_python_interface.tex",
-		"/C/PhD/tools/gams_python/pres_gams_python_interface.vrb",
-		"/C/PhD/tools/gams_python/pres_gams_python_interface.out",
-		"/U/MyOwn/tools/gams_python/pres_gams_python_interface.tex",
-		"/C/PhD/journals/2016_cm_generators/evaluation/test.csv",
-		"/C/PhD/journals/2016_cm_generators/evaluation/origin_of_revenues_2.csv",
-		"/C/Users/hhoschle/Dropbox/days_finder_opt/latex/IEEE/First_review/sections_reviewer_1.tex",
-		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/SideBarEnhancements/Open With/Side Bar.sublime-menu",
-		"/C/PhD/journals/2016_cm_generators/doc/results.xlsx",
-		"/C/PhD/journals/2016_cm_generators/model/results/testRES/sr/sr_generic_country_model_e-5.000.gdx",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/sr/generic_country_model_sr.gms",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/generic_country_model_dcm.lst",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/ccm/generic_country_model_ccm.gms",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/reference_country_model_dcm.gms",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/generic_country_model_dcm.gms",
-		"/C/privat/Guild Ball/PlayerCards/Cards4PDF.tex",
-		"/C/PhD/journals/2016_cm_generators/model/results/testRES/ccm/ccm_reference_country_model.gdx",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/sr/reference_country_model_sr.gms",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/dcm/reference_country_model_dcm.lst",
-		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/SublimeLinter/SublimeLinter.sublime-settings",
-		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/User/pep8_autoformat.sublime-settings",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/generic_country_model_eom.gms",
-		"/C/PhD/journals/2016_cm_generators/paper/2016_cm_generators.tex",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/generic_country_model_eom.lst",
-		"/C/PhD/journals/2016_cm_generators/model/model_string.py",
-		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/Python PEP8 Autoformat/pep8_autoformat.sublime-settings",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/reference_country_model_eom.gms",
-		"/C/PhD/journals/2016_cm_generators/model/gams/execution.py",
-		"/C/Users/hhoschle/Dropbox/2015_crm_storage/model/model/2015_storage_crm.py",
-		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/SideBarEnhancements/Side Bar.sublime-settings",
-		"/C/PhD/journals/2016_cm_generators/model/gams/eom/generic_country_model_eom.gms",
-		"/C/PhD/journals/2016_cm_generators/model/gams/exogenous/eom/reference_country_model_eom.lst",
-		"/C/PhD/journals/2016_cm_generators/model/results/test/eom/eom_reference_country_model.lst",
-		"/C/PhD/journals/2016_cm_generators/model/gams/eom/reference_country_model_eom.lst",
-		"/C/PhD/journals/2016_cm_generators/model/gams/reference_country_model_eom.gms",
-		"/C/PhD/teaching/master_thesis/2014_2015/komnas/Demand.inc",
-		"/C/PhD/teaching/master_thesis/2014_2015/komnas/Untitled_1.lst",
-		"/C/PhD/teaching/master_thesis/2014_2015/komnas/Untitled_1.gms",
-		"/C/PhD/teaching/master_thesis/2014_2015/komnas/elprice.inc"
+		"/C/Users/hhoschle/AppData/Roaming/Sublime Text 3/Packages/Default/Preferences.sublime-settings"
 	],
 	"find":
 	{
@@ -575,6 +593,10 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"filth",
+			"free the ",
+			"tex",
+			"mantis ass",
 			"ramp",
 			"eom_450",
 			",",
@@ -604,24 +626,83 @@
 	"groups":
 	[
 		{
-			"selected": 3,
+			"selected": 1,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "download_from_paizo.py",
+					"file": "latex/crimson_throne_book_main.tex",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 2212,
+						"buffer_size": 1703,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								898,
-								898
+								409,
+								409
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "latex/main_input_generated.tex",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 12361,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								9710,
+								9710
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 7076.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "download_from_paizo.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 5450,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								4472,
+								4472
 							]
 						],
 						"settings":
@@ -631,77 +712,19 @@
 							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 427.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "generate_input_main.py",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 666,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								198,
-								198
-							]
-						],
-						"settings":
-						{
-							"open_with_edit": true,
-							"syntax": "Packages/Python/Python.sublime-syntax",
-							"translate_tabs_to_spaces": true
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 1456.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 3,
 					"type": "text"
 				},
 				{
-					"buffer": 2,
-					"file": "latex/main_input_generated.tex",
+					"buffer": 3,
+					"file": "html/pages_07.html",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 836,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								151,
-								151
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 3,
-					"file": "latex/downloaded/2013-05-19.tex",
-					"semi_transient": true,
-					"settings":
-					{
-						"buffer_size": 58,
+						"buffer_size": 299984,
 						"regions":
 						{
 						},
@@ -714,35 +737,9 @@
 						],
 						"settings":
 						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 0,
-					"type": "text"
-				},
-				{
-					"buffer": 4,
-					"file": "latex/downloaded/2016-04-16.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 87,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								87,
-								87
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -752,117 +749,34 @@
 					"type": "text"
 				},
 				{
-					"buffer": 5,
-					"file": "latex/downloaded/2016-04-23.tex",
+					"buffer": 4,
+					"file": "generate_input_main.py",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 87,
+						"buffer_size": 826,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 5,
-					"type": "text"
-				},
-				{
-					"buffer": 6,
-					"file": "latex/crimson_throne_book_main.tex",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 161,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								47,
-								47
+								620,
+								620
 							]
 						],
 						"settings":
 						{
 							"open_with_edit": true,
-							"syntax": "Packages/LaTeX/LaTeX.sublime-syntax"
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 6,
-					"type": "text"
-				},
-				{
-					"buffer": 7,
-					"file": "html/pages_07.html",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 200301,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								63094,
-								63099
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/HTML/HTML.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 30165.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 7,
-					"type": "text"
-				},
-				{
-					"buffer": 8,
-					"file": "crimson_throne_book.sublime-project",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 247,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								0,
-								0
-							]
-						],
-						"settings":
-						{
-							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
-							"translate_tabs_to_spaces": false
-						},
-						"translation.x": 0.0,
-						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 8,
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
@@ -931,6 +845,10 @@
 		[
 			[
 				"",
+				"C:\\PhD\\journals\\2016_cm_generators\\2016_cm_generators.sublime-project"
+			],
+			[
+				"cva",
 				"C:\\PhD\\journals\\2016_cvar_cm\\2016_cvar_cm.sublime-project"
 			],
 			[
@@ -957,7 +875,7 @@
 	"show_open_files": true,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 345.0,
+	"side_bar_width": 211.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
